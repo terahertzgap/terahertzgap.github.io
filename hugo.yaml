@@ -73,3 +73,6 @@ params:
     imageWidth: 250
     imageHeight: 250
     subtitle: "Traversing Unknown Territories and Beyond"
+
+  footer:
+    text: "**100% human-written content**"
