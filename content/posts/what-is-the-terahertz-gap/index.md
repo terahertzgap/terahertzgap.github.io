@@ -16,9 +16,9 @@ This meant not only setting up a new static website with [Hugo](https://gohugo.i
 
 One of my passions is keeping up with the latest breakthroughs in science and technology.
 
-It's also something I need to regularly do to stay competitive in my field of work as an engineer.
+It's also something I need to do regularly to stay competitive in my field of work as an engineer.
 
-Occasionally, I find myself in a Wikipedia rabbit hole, without knowing how I exactly got there.
+Every now and then, I find myself in a Wikipedia rabbit hole, without knowing how I exactly got there.
 
 With the thought of needing a new name in the back of my mind, I stumbled upon the page about the
 [terahertz gap][1].
@@ -29,17 +29,17 @@ wavelengths between 3 mm and 30 μm [[1]].
 The reason why it's named the terahertz _gap_ is that there are currently no practical methods for making devices 
 that send or receive these waves.
 
-On top of that, due to their short wavelengths, terahertz waves can get easily absorbed by the water vapor in 
+On top of that, due to their short wavelengths, terahertz waves can easily get absorbed by the water vapor in 
 the air [[2]].
 
 However, while there are major obstacles in the way, it doesn't mean that it's impossible to get there.
 
 [A quick search in Google Scholar](https://scholar.google.com/scholar?hl=en&scisbd=1&as_sdt=0%2C5&q=%22terahertz+gap%22) 
-shows that new papers keep getting published, each taking us one step closer to a breakthrough.
+indicates that it's an actively researched field, with each paper taking us one step closer to a breakthrough.
 
-That's when I had the Aha! Moment. 
+That's when I had my Aha! Moment. 
 
-I found a new name that aligns with my interests and makes for an intriguing first post.
+I found a name that aligns with my interests and makes for an intriguing first post.
 
 [1]: https://en.wikipedia.org/wiki/Terahertz_radiation#Terahertz_gap
 [2]: https://www.popsci.com/science/terahertz-waves-future-technologies/
